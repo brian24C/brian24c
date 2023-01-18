@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi there! 👋
+
+#### En lo que estoy enfocado ahora :computer:
+- Python, Django, JavaScript, Node.js, Express, AWS (Amazon Web Services).
+
+Lo que me gusta seguir aprendiendo en mi pasatiempos 🤖
+- Machine learning, IA, Data Scient.
+
+Dónde encontrarme:
+- [LinkedIn](https://www.linkedin.com/in/brian-castro-071176161)
 
 <!--
 **brian24C/brian24c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
