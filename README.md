@@ -1,7 +1,7 @@
 ### Hi there! 👋
 
 #### En lo que estoy enfocado ahora :computer:
-- Python, Django, JavaScript, Node.js, Express, AWS (Amazon Web Services).
+- Python, Django, JavaScript, Node.js, Express, REACT, Vite, AWS (Amazon Web Services).
 
 Lo que me gusta seguir aprendiendo en mi pasatiempos 🤖
 - Machine learning, IA, Data Scient.
