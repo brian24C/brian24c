@@ -1,10 +1,7 @@
 ### Hi there! 👋
 
 #### En lo que estoy enfocado ahora :computer:
-- Angular, NestJs, Python, Django, TypeScript, Node.js, Express, REACT, AWS (Amazon Web Services).
-
-Lo que me gusta seguir aprendiendo en mi pasatiempos 🤖
-- Machine learning, IA, Data Scient.
+- NestJs, Angular, Hacking, Linux, Python, TypeScript, REACT, Azure, AWS (Amazon Web Services).
 
 Dónde encontrarme:
 - [LinkedIn](https://www.linkedin.com/in/brian-castro-071176161)
