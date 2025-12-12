@@ -9,6 +9,8 @@ Lo que me gusta seguir aprendiendo en mi pasatiempos 🤖
 Dónde encontrarme:
 - [LinkedIn](https://www.linkedin.com/in/brian-castro-071176161)
 
+Si quieres conocerme más, te invito a ver mi portafolio! 
+- (https://portafolio.briandev.uk/)
 <!--
 **brian24C/brian24c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
